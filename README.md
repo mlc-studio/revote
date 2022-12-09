@@ -1,6 +1,8 @@
 # ReVote (revote)
 
 An application that you can create vote and voting for them
+![Revote Cover](https://github.com/macsimtv/revote/blob/main/readme/cover.jpg)
+
 ## User Stories
 
 - [ ] User can authenticate
