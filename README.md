@@ -6,7 +6,7 @@ An application that you can create vote and voting for them
 ## User Stories
 
 - [ ] User can authenticate
-- [ ] User can view & vote a revote from everybody else
+- [ ] User can view & vote a revote from anyone
 - [ ] User can create, update, delete own revote
 
 ## Install the dependencies
