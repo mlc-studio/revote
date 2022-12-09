@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+}
+
+html, body {
+    min-height: 100vh;
+}
+
+h1, h2, h3, h4, h5, h6, p, span, a {
+    margin: 0;
+    padding: 0;
+
+    color: unset;
+
+    font-size: unset;
+    font-weight: unset;
+
+    line-height: unset;
+
+    text-decoration: none;
+}
+
+.container {
+    width: clamp(0px, 90%, 1200px);
+
+    margin: 0 auto;
+}
