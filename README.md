@@ -4,8 +4,8 @@ An application that you can create vote and voting for them
 ## User Stories
 
 - [ ] User can authenticate
-- [ ] User can vote a revote
-
+- [ ] User can view & vote a revote from everybody else
+- [ ] User can create, update, delete own revote
 
 ## Install the dependencies
 ```bash
