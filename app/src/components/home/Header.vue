@@ -1,6 +1,8 @@
 <script setup>
-
 import { ref } from 'vue';
+import { useRouter } from 'vue-router';
+
+const router = useRouter();
 
 const dropdownItems = ref([
   {
@@ -24,6 +26,11 @@ const dropdownChange = (value) => {
 const dropdownToggle = () => {
   dropdownOpen.value = !dropdownOpen.value;
 };
+
+const handleLogout = () => {
+    localStorage.removeItem('token');
+    router.push('/login');
+};
 </script>
 
 <template>
@@ -33,23 +40,28 @@ const dropdownToggle = () => {
             <div class="header__dropdown">
                 <div class="header__dropdown__display">
                     <div class="header__dropdown__display__value" @click="dropdownToggle">
-                        {{ dropdownItems.find((item) => item.value === dropdownValue).name }}
+                        <!-- {{ dropdownItems.find((item) => item.value === dropdownValue).name }} -->
+                        Feed
                     </div>
                     <div class="header__dropdown__display__icon">
                         <q-icon name="expand_more" />
                     </div>
-                    <div v-if="dropdownOpen" class="header__dropdown__display__list">
+                    <!-- <div v-if="dropdownOpen" class="header__dropdown__display__list">
                         <q-list>
                             <q-item v-for="item in dropdownItems" :key="item.value" clickable @click="dropdownChange(item.value)">
                                 <q-item-section>{{ item.name }}</q-item-section>
                             </q-item>
                         </q-list>                        
-                    </div>
+                    </div> -->
                 </div>
             </div>
-            <div class="header__profile">
-                <q-icon name="smart_toy" class="header__profile__icon" />
+            <div style="display: flex; align-items: center; gap: 10px; cursor: pointer;" @click="handleLogout">
+                Sign out
+                <div class="header__profile">
+                    <q-icon name="smart_toy" class="header__profile__icon" />
+                </div>
             </div>
+            
         </div>
     </div>
   </header>

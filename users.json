@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "username": "Maxime",
+  "email": "maxime@gmail.com",
+  "encryptedPassword": "$2a$10$UeMd8zSc2A0nWvI9ppFGtOfIrn4k.HtjuK2Cg3vO/LwmSK37n3R/.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673606392746"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673606392746"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c16df42cf14946a09cbc7f"
+  },
+  "username": "Martin",
+  "email": "martin@gmail.com",
+  "encryptedPassword": "$2a$10$UeMd8zSc2A0nWvI9ppFGtOfIrn4k.HtjuK2Cg3vO/LwmSK37n3R/.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673620980063"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673620980063"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c17523aa804cb98c6b1558"
+  },
+  "username": "Arthur",
+  "email": "arthur@gmail.com",
+  "encryptedPassword": "$2a$10$UeMd8zSc2A0nWvI9ppFGtOfIrn4k.HtjuK2Cg3vO/LwmSK37n3R/.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673622819559"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673622819559"
+    }
+  },
+  "__v": 0
+}]

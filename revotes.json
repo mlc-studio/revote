@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "63c178181b35cc3b49ac1ae7"
+  },
+  "title": "\"Qui achète ça ?\" : résolvons ensemble ces mystères de supermarché",
+  "description": "On peut trouver dans les supermarchés beaucoup de produits à l'intérêt douteux. Pourtant quelqu'un doit bien les acheter. Je propose qu'on liste ces produits, et que si leurs acheteurs sont sur ce sous ils se dénoncent et s'expliquent.",
+  "user": {
+    "$oid": "63c16df42cf14946a09cbc7f"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673623576985"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673623576985"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c178861b35cc3b49ac1aed"
+  },
+  "title": "Pianist plays in the mountains",
+  "description": "Lang Lang is a Chinese pianist. He plays in the Bernese Alps in Switzerland. The Bernese Alps are very tall mountains.  Lang Lang plays at 4,158 meters at Jungfraujoch. The highest railway station in Europe is there. It is very cold there. It is not good for a pianist. His fingers are cold.",
+  "user": {
+    "$oid": "63c17523aa804cb98c6b1558"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673623686865"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673623686865"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c17bc335c4d59a903ce4cb"
+  },
+  "title": "Congo beer factory",
+  "description": "Congo is a poor country. Most people live on less than 2 dollars a day.  A French company builds a beer factory in Beni. The factory is very important for local people. Many of them work there. Between 2013 and 2021, the production of beer grows. Last year, the company builds a second filling line.",
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673624515094"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673624515094"
+    }
+  },
+  "__v": 0
+}]

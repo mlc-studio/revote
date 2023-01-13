@@ -1,0 +1,463 @@
+[{
+  "_id": {
+    "$oid": "63c178d61b35cc3b49ac1b0a"
+  },
+  "revote": {
+    "$oid": "63c178a11b35cc3b49ac1af3"
+  },
+  "upOrDown": true,
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673623766741"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673623766741"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c178dc1777766fd75cdc4a"
+  },
+  "revote": {
+    "$oid": "63c178a11b35cc3b49ac1af3"
+  },
+  "upOrDown": true,
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673623766741"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673623766741"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c178de1777766fd75cdc4b"
+  },
+  "revote": {
+    "$oid": "63c178a11b35cc3b49ac1af3"
+  },
+  "upOrDown": true,
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673623766741"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673623766741"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c178e41777766fd75cdc4c"
+  },
+  "revote": {
+    "$oid": "63c178a11b35cc3b49ac1af3"
+  },
+  "upOrDown": true,
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673623766741"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673623766741"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c178e51777766fd75cdc4d"
+  },
+  "revote": {
+    "$oid": "63c178a11b35cc3b49ac1af3"
+  },
+  "upOrDown": true,
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673623766741"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673623766741"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c178e71777766fd75cdc4e"
+  },
+  "revote": {
+    "$oid": "63c178a11b35cc3b49ac1af3"
+  },
+  "upOrDown": true,
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673623766741"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673623766741"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c178eb1b35cc3b49ac1b19"
+  },
+  "revote": {
+    "$oid": "63c178181b35cc3b49ac1ae7"
+  },
+  "upOrDown": false,
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673623787762"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673623787762"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c178f41777766fd75cdc4f"
+  },
+  "revote": {
+    "$oid": "63c178181b35cc3b49ac1ae7"
+  },
+  "upOrDown": false,
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673623787762"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673623787762"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c178f81777766fd75cdc50"
+  },
+  "revote": {
+    "$oid": "63c178181b35cc3b49ac1ae7"
+  },
+  "upOrDown": false,
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673623787762"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673623787762"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c178fa1777766fd75cdc51"
+  },
+  "revote": {
+    "$oid": "63c178a11b35cc3b49ac1af3"
+  },
+  "upOrDown": true,
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673623766741"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673623766741"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c178fd1777766fd75cdc52"
+  },
+  "revote": {
+    "$oid": "63c178a11b35cc3b49ac1af3"
+  },
+  "upOrDown": true,
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673623766741"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673623766741"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c179001777766fd75cdc53"
+  },
+  "revote": {
+    "$oid": "63c178a11b35cc3b49ac1af3"
+  },
+  "upOrDown": true,
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673623766741"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673623766741"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c1791e1b35cc3b49ac1b44"
+  },
+  "revote": {
+    "$oid": "63c178861b35cc3b49ac1aed"
+  },
+  "upOrDown": true,
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673623838503"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673623838503"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c17bc635c4d59a903ce4d3"
+  },
+  "revote": {
+    "$oid": "63c17bc335c4d59a903ce4cb"
+  },
+  "upOrDown": true,
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673624518536"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673624518536"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c17bd31777766fd75cdc5b"
+  },
+  "revote": {
+    "$oid": "63c17bc335c4d59a903ce4cb"
+  },
+  "upOrDown": true,
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673624518536"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673624518536"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c17bd81777766fd75cdc5c"
+  },
+  "revote": {
+    "$oid": "63c17bc335c4d59a903ce4cb"
+  },
+  "upOrDown": true,
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673624518536"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673624518536"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c17bdc1777766fd75cdc5d"
+  },
+  "revote": {
+    "$oid": "63c17bc335c4d59a903ce4cb"
+  },
+  "upOrDown": true,
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673624518536"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673624518536"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c17bdf1777766fd75cdc5e"
+  },
+  "revote": {
+    "$oid": "63c17bc335c4d59a903ce4cb"
+  },
+  "upOrDown": true,
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673624518536"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673624518536"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c17be31777766fd75cdc5f"
+  },
+  "revote": {
+    "$oid": "63c17bc335c4d59a903ce4cb"
+  },
+  "upOrDown": true,
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673624518536"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673624518536"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c17be61777766fd75cdc60"
+  },
+  "revote": {
+    "$oid": "63c17bc335c4d59a903ce4cb"
+  },
+  "upOrDown": true,
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673624518536"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673624518536"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c17bea1777766fd75cdc61"
+  },
+  "revote": {
+    "$oid": "63c17bc335c4d59a903ce4cb"
+  },
+  "upOrDown": true,
+  "user": {
+    "$oid": "63c134f834ff56058636b9f2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673624518536"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673624518536"
+    }
+  },
+  "__v": 0
+}]
