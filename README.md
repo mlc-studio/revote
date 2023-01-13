@@ -35,5 +35,5 @@ Change the api uri in ``/app/src/boot/axios.js`
 ```js
 const api = axios.create({ baseURL: 'YOUR API URL HERE' })
 ```
-there is an `.env.example` in `/server` folder, you can use it to create your own `.env`
+there is an `.env.example` in `/api` folder, you can use it to create your own `.env`
 
